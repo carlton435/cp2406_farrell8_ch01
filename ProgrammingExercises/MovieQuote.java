@@ -1,8 +1,7 @@
 class MovieQuote
 {
-    public static void main(string[] arges)
+    public static void main(String[] args)
     {
-        System.out.println("For kingdom!");
+        System.out.println("Tom.");
     }
-
 }
